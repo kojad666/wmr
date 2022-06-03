@@ -112,7 +112,7 @@
 		"chokidar": "^3.4.0",
 		"cross-env": "^7.0.2",
 		"cssnano": "^4.1.10",
-		"devcert": "^1.1.2",
+		"devcert": "^1.2.1",
 		"es-module-lexer": "^0.3.24",
 		"eslint": "^7.4.0",
 		"eslint-config-developit": "^1.2.0",
